@@ -1,5 +1,5 @@
 # pdf-to-audio
-A simple python project that recite songs/pdfs you save
+A simple python project that recites songs/pdfs you save
 
 ## Future work (Using Google Cloud Platform).........
 Converting PDF to text file using Vision API OCR feature
